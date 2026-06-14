@@ -28,6 +28,10 @@ Ongoing manuscript-stage bioinformatics workflow. This repository contains analy
 * Biopython
 * CSV processing
 * Regular expressions
+  
+## Data Availability
+
+Processed result tables and unpublished biological findings are not included in this repository because the associated manuscript is currently in preparation.
 
 ## Author
 
